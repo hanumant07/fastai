@@ -1,0 +1,4 @@
+*.jpg
+course-v3/*
+.ipynb_checkpoints
+.DS_store
